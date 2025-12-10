@@ -8,8 +8,8 @@
     "num_images_per_instance": 4,
     "total_images": 200,
     "image_dimensions": {
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "format": "PNG"
     },
     "views": [
@@ -72,8 +72,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-01-V1-B.png"
     },
     {
@@ -84,8 +84,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-01-V1-W.png"
     },
     {
@@ -96,8 +96,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-01-V2-B.png"
     },
     {
@@ -108,8 +108,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-01-V2-W.png"
     },
     {
@@ -120,8 +120,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-02-V1-B.png"
     },
     {
@@ -132,8 +132,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-02-V1-W.png"
     },
     {
@@ -144,8 +144,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-02-V2-B.png"
     },
     {
@@ -156,8 +156,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-02-V2-W.png"
     },
     {
@@ -168,8 +168,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-03-V1-B.png"
     },
     {
@@ -180,8 +180,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-03-V1-W.png"
     },
     {
@@ -192,8 +192,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-03-V2-B.png"
     },
     {
@@ -204,8 +204,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-03-V2-W.png"
     },
     {
@@ -216,8 +216,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-04-V1-B.png"
     },
     {
@@ -228,8 +228,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-04-V1-W.png"
     },
     {
@@ -240,8 +240,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-04-V2-B.png"
     },
     {
@@ -252,8 +252,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-04-V2-W.png"
     },
     {
@@ -264,8 +264,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-05-V1-B.png"
     },
     {
@@ -276,8 +276,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-05-V1-W.png"
     },
     {
@@ -288,8 +288,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-05-V2-B.png"
     },
     {
@@ -300,8 +300,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "apple/0-05-V2-W.png"
     },
     {
@@ -312,8 +312,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-01-V1-B.png"
     },
     {
@@ -324,8 +324,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-01-V1-W.png"
     },
     {
@@ -336,8 +336,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-01-V2-B.png"
     },
     {
@@ -348,8 +348,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-01-V2-W.png"
     },
     {
@@ -360,8 +360,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-02-V1-B.png"
     },
     {
@@ -372,8 +372,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-02-V1-W.png"
     },
     {
@@ -384,8 +384,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-02-V2-B.png"
     },
     {
@@ -396,8 +396,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-02-V2-W.png"
     },
     {
@@ -408,8 +408,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-03-V1-B.png"
     },
     {
@@ -420,8 +420,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-03-V1-W.png"
     },
     {
@@ -432,8 +432,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-03-V2-B.png"
     },
     {
@@ -444,8 +444,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-03-V2-W.png"
     },
     {
@@ -456,8 +456,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-04-V1-B.png"
     },
     {
@@ -468,8 +468,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-04-V1-W.png"
     },
     {
@@ -480,8 +480,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-04-V2-B.png"
     },
     {
@@ -492,8 +492,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-04-V2-W.png"
     },
     {
@@ -504,8 +504,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-05-V1-B.png"
     },
     {
@@ -516,8 +516,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-05-V1-W.png"
     },
     {
@@ -528,8 +528,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-05-V2-B.png"
     },
     {
@@ -540,8 +540,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "avocado/1-05-V2-W.png"
     },
     {
@@ -552,8 +552,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-01-V1-B.png"
     },
     {
@@ -564,8 +564,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-01-V1-W.png"
     },
     {
@@ -576,8 +576,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-01-V2-B.png"
     },
     {
@@ -588,8 +588,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-01-V2-W.png"
     },
     {
@@ -600,8 +600,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-02-V1-B.png"
     },
     {
@@ -612,8 +612,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-02-V1-W.png"
     },
     {
@@ -624,8 +624,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-02-V2-B.png"
     },
     {
@@ -636,8 +636,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-02-V2-W.png"
     },
     {
@@ -648,8 +648,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-03-V1-B.png"
     },
     {
@@ -660,8 +660,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-03-V1-W.png"
     },
     {
@@ -672,8 +672,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-03-V2-B.png"
     },
     {
@@ -684,8 +684,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-03-V2-W.png"
     },
     {
@@ -696,8 +696,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-04-V1-B.png"
     },
     {
@@ -708,8 +708,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-04-V1-W.png"
     },
     {
@@ -720,8 +720,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-04-V2-B.png"
     },
     {
@@ -732,8 +732,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-04-V2-W.png"
     },
     {
@@ -744,8 +744,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-05-V1-B.png"
     },
     {
@@ -756,8 +756,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-05-V1-W.png"
     },
     {
@@ -768,8 +768,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-05-V2-B.png"
     },
     {
@@ -780,8 +780,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "banana/2-05-V2-W.png"
     },
     {
@@ -792,8 +792,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-01-V1-B.png"
     },
     {
@@ -804,8 +804,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-01-V1-W.png"
     },
     {
@@ -816,8 +816,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-01-V2-B.png"
     },
     {
@@ -828,8 +828,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-01-V2-W.png"
     },
     {
@@ -840,8 +840,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-02-V1-B.png"
     },
     {
@@ -852,8 +852,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-02-V1-W.png"
     },
     {
@@ -864,8 +864,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-02-V2-B.png"
     },
     {
@@ -876,8 +876,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-02-V2-W.png"
     },
     {
@@ -888,8 +888,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-03-V1-B.png"
     },
     {
@@ -900,8 +900,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-03-V1-W.png"
     },
     {
@@ -912,8 +912,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-03-V2-B.png"
     },
     {
@@ -924,8 +924,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-03-V2-W.png"
     },
     {
@@ -936,8 +936,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-04-V1-B.png"
     },
     {
@@ -948,8 +948,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-04-V1-W.png"
     },
     {
@@ -960,8 +960,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-04-V2-B.png"
     },
     {
@@ -972,8 +972,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-04-V2-W.png"
     },
     {
@@ -984,8 +984,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-05-V1-B.png"
     },
     {
@@ -996,8 +996,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-05-V1-W.png"
     },
     {
@@ -1008,8 +1008,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-05-V2-B.png"
     },
     {
@@ -1020,8 +1020,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "guava/3-05-V2-W.png"
     },
     {
@@ -1032,8 +1032,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-01-V1-B.png"
     },
     {
@@ -1044,8 +1044,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-01-V1-W.png"
     },
     {
@@ -1056,8 +1056,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-01-V2-B.png"
     },
     {
@@ -1068,8 +1068,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-01-V2-W.png"
     },
     {
@@ -1080,8 +1080,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-02-V1-B.png"
     },
     {
@@ -1092,8 +1092,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-02-V1-W.png"
     },
     {
@@ -1104,8 +1104,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-02-V2-B.png"
     },
     {
@@ -1116,8 +1116,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-02-V2-W.png"
     },
     {
@@ -1128,8 +1128,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-03-V1-B.png"
     },
     {
@@ -1140,8 +1140,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-03-V1-W.png"
     },
     {
@@ -1152,8 +1152,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-03-V2-B.png"
     },
     {
@@ -1164,8 +1164,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-03-V2-W.png"
     },
     {
@@ -1176,8 +1176,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-04-V1-B.png"
     },
     {
@@ -1188,8 +1188,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-04-V1-W.png"
     },
     {
@@ -1200,8 +1200,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-04-V2-B.png"
     },
     {
@@ -1212,8 +1212,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-04-V2-W.png"
     },
     {
@@ -1224,8 +1224,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-05-V1-B.png"
     },
     {
@@ -1236,8 +1236,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-05-V1-W.png"
     },
     {
@@ -1248,8 +1248,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-05-V2-B.png"
     },
     {
@@ -1260,8 +1260,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "kiwi/4-05-V2-W.png"
     },
     {
@@ -1272,8 +1272,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-01-V1-B.png"
     },
     {
@@ -1284,8 +1284,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-01-V1-W.png"
     },
     {
@@ -1296,8 +1296,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-01-V2-B.png"
     },
     {
@@ -1308,8 +1308,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-01-V2-W.png"
     },
     {
@@ -1320,8 +1320,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-02-V1-B.png"
     },
     {
@@ -1332,8 +1332,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-02-V1-W.png"
     },
     {
@@ -1344,8 +1344,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-02-V2-B.png"
     },
     {
@@ -1356,8 +1356,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-02-V2-W.png"
     },
     {
@@ -1368,8 +1368,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-03-V1-B.png"
     },
     {
@@ -1380,8 +1380,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-03-V1-W.png"
     },
     {
@@ -1392,8 +1392,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-03-V2-B.png"
     },
     {
@@ -1404,8 +1404,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-03-V2-W.png"
     },
     {
@@ -1416,8 +1416,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-04-V1-B.png"
     },
     {
@@ -1428,8 +1428,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-04-V1-W.png"
     },
     {
@@ -1440,8 +1440,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-04-V2-B.png"
     },
     {
@@ -1452,8 +1452,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-04-V2-W.png"
     },
     {
@@ -1464,8 +1464,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-05-V1-B.png"
     },
     {
@@ -1476,8 +1476,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-05-V1-W.png"
     },
     {
@@ -1488,8 +1488,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-05-V2-B.png"
     },
     {
@@ -1500,8 +1500,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "orange/5-05-V2-W.png"
     },
     {
@@ -1512,8 +1512,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-01-V1-B.png"
     },
     {
@@ -1524,8 +1524,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-01-V1-W.png"
     },
     {
@@ -1536,8 +1536,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-01-V2-B.png"
     },
     {
@@ -1548,8 +1548,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-01-V2-W.png"
     },
     {
@@ -1560,8 +1560,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-02-V1-B.png"
     },
     {
@@ -1572,8 +1572,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-02-V1-W.png"
     },
     {
@@ -1584,8 +1584,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-02-V2-B.png"
     },
     {
@@ -1596,8 +1596,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-02-V2-W.png"
     },
     {
@@ -1608,8 +1608,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-03-V1-B.png"
     },
     {
@@ -1620,8 +1620,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-03-V1-W.png"
     },
     {
@@ -1632,8 +1632,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-03-V2-B.png"
     },
     {
@@ -1644,8 +1644,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-03-V2-W.png"
     },
     {
@@ -1656,8 +1656,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-04-V1-B.png"
     },
     {
@@ -1668,8 +1668,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-04-V1-W.png"
     },
     {
@@ -1680,8 +1680,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-04-V2-B.png"
     },
     {
@@ -1692,8 +1692,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-04-V2-W.png"
     },
     {
@@ -1704,8 +1704,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-05-V1-B.png"
     },
     {
@@ -1716,8 +1716,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-05-V1-W.png"
     },
     {
@@ -1728,8 +1728,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-05-V2-B.png"
     },
     {
@@ -1740,8 +1740,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "papaya/6-05-V2-W.png"
     },
     {
@@ -1752,8 +1752,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-01-V1-B.png"
     },
     {
@@ -1764,8 +1764,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-01-V1-W.png"
     },
     {
@@ -1776,8 +1776,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-01-V2-B.png"
     },
     {
@@ -1788,8 +1788,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-01-V2-W.png"
     },
     {
@@ -1800,8 +1800,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-02-V1-B.png"
     },
     {
@@ -1812,8 +1812,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-02-V1-W.png"
     },
     {
@@ -1824,8 +1824,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-02-V2-B.png"
     },
     {
@@ -1836,8 +1836,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-02-V2-W.png"
     },
     {
@@ -1848,8 +1848,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-03-V1-B.png"
     },
     {
@@ -1860,8 +1860,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-03-V1-W.png"
     },
     {
@@ -1872,8 +1872,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-03-V2-B.png"
     },
     {
@@ -1884,8 +1884,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-03-V2-W.png"
     },
     {
@@ -1896,8 +1896,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-04-V1-B.png"
     },
     {
@@ -1908,8 +1908,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-04-V1-W.png"
     },
     {
@@ -1920,8 +1920,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-04-V2-B.png"
     },
     {
@@ -1932,8 +1932,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-04-V2-W.png"
     },
     {
@@ -1944,8 +1944,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-05-V1-B.png"
     },
     {
@@ -1956,8 +1956,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-05-V1-W.png"
     },
     {
@@ -1968,8 +1968,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-05-V2-B.png"
     },
     {
@@ -1980,8 +1980,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "passion_fruit/7-05-V2-W.png"
     },
     {
@@ -1992,8 +1992,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-01-V1-B.png"
     },
     {
@@ -2004,8 +2004,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-01-V1-W.png"
     },
     {
@@ -2016,8 +2016,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-01-V2-B.png"
     },
     {
@@ -2028,8 +2028,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-01-V2-W.png"
     },
     {
@@ -2040,8 +2040,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-02-V1-B.png"
     },
     {
@@ -2052,8 +2052,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-02-V1-W.png"
     },
     {
@@ -2064,8 +2064,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-02-V2-B.png"
     },
     {
@@ -2076,8 +2076,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-02-V2-W.png"
     },
     {
@@ -2088,8 +2088,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-03-V1-B.png"
     },
     {
@@ -2100,8 +2100,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-03-V1-W.png"
     },
     {
@@ -2112,8 +2112,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-03-V2-B.png"
     },
     {
@@ -2124,8 +2124,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-03-V2-W.png"
     },
     {
@@ -2136,8 +2136,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-04-V1-B.png"
     },
     {
@@ -2148,8 +2148,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-04-V1-W.png"
     },
     {
@@ -2160,8 +2160,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-04-V2-B.png"
     },
     {
@@ -2172,8 +2172,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-04-V2-W.png"
     },
     {
@@ -2184,8 +2184,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-05-V1-B.png"
     },
     {
@@ -2196,8 +2196,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-05-V1-W.png"
     },
     {
@@ -2208,8 +2208,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-05-V2-B.png"
     },
     {
@@ -2220,8 +2220,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "pear/8-05-V2-W.png"
     },
     {
@@ -2232,8 +2232,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-01-V1-B.png"
     },
     {
@@ -2244,8 +2244,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-01-V1-W.png"
     },
     {
@@ -2256,8 +2256,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-01-V2-B.png"
     },
     {
@@ -2268,8 +2268,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-01-V2-W.png"
     },
     {
@@ -2280,8 +2280,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-02-V1-B.png"
     },
     {
@@ -2292,8 +2292,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-02-V1-W.png"
     },
     {
@@ -2304,8 +2304,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-02-V2-B.png"
     },
     {
@@ -2316,8 +2316,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-02-V2-W.png"
     },
     {
@@ -2328,8 +2328,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-03-V1-B.png"
     },
     {
@@ -2340,8 +2340,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-03-V1-W.png"
     },
     {
@@ -2352,8 +2352,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-03-V2-B.png"
     },
     {
@@ -2364,8 +2364,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-03-V2-W.png"
     },
     {
@@ -2376,8 +2376,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-04-V1-B.png"
     },
     {
@@ -2388,8 +2388,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-04-V1-W.png"
     },
     {
@@ -2400,8 +2400,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-04-V2-B.png"
     },
     {
@@ -2412,8 +2412,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-04-V2-W.png"
     },
     {
@@ -2424,8 +2424,8 @@
       "view": "V1",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-05-V1-B.png"
     },
     {
@@ -2436,8 +2436,8 @@
       "view": "V1",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-05-V1-W.png"
     },
     {
@@ -2448,8 +2448,8 @@
       "view": "V2",
       "background": "B",
       "background_description": "Black",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-05-V2-B.png"
     },
     {
@@ -2460,8 +2460,8 @@
       "view": "V2",
       "background": "W",
       "background_description": "White",
-      "width": 3024,
-      "height": 4032,
+      "width": 828,
+      "height": 1094,
       "path": "plum/9-05-V2-W.png"
     }
   ]
