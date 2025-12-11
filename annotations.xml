@@ -341,6 +341,7 @@
   <image id="59" name="2-05-V2-W.png" width="828" height="1094">
     <box label="banana" source="manual" occluded="0" xtl="312.19" ytl="261.78" xbr="533.13" ybr="813.07" z_order="0">
     </box>
+  </image>
   <image id="60" name="3-01-V1-B.png" width="828" height="1094">
     <box label="guava" source="manual" occluded="0" xtl="301.33" ytl="417.55" xbr="540.73" ybr="697.31" z_order="0">
     </box>
